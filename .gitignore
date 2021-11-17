@@ -1,1 +1,4 @@
 .venv
+.env
+vk_config*
+*csv
